@@ -2,14 +2,14 @@
 The Sweet Shop Management System is a lightweight, Python-based web application built using Flask. It allows users to efficiently manage a sweet inventory and simulate basic point-of-sale operations without relying on external databases or JavaScript.
 
 # Key Features Implemented
-Add New Sweets (with ID, name, category, price, quantity)
-Edit Sweet Details (update any field except ID)
-Delete Sweets from inventory
-Purchase Sweets (with quantity check & stock reduction)
-Restock Sweets (update quantity)
-Search by ID, Name, Category, or Max Price
-Sort sweets by name, price, or quantity
-Add to Cart feature to collect items before checkout
+1.Add New Sweets (with ID, name, category, price, quantity)
+2.Edit Sweet Details (update any field except ID)
+3.Delete Sweets from inventory
+4.Purchase Sweets (with quantity check & stock reduction)
+5.Restock Sweets (update quantity)
+6.Search by ID, Name, Category, or Max Price
+7.Sort sweets by name, price, or quantity
+8.Add to Cart feature to collect items before checkout
 Checkout Page with:
     Item-wise subtotal
     Grand total

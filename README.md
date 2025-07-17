@@ -43,14 +43,16 @@ The Sweet Shop Management System is a lightweight, Python-based web application 
     Creating test cases to check if everything works
 "In this project, I have written all the routes and method logic directly inside app.py for simplicity and to keep everything in one place. However, in larger or more complex projects, it is a good practice to separate route definitions, logic, and configurations into different files or modules to improve readability, maintainability, and scalability."
 # Run
-1. Clone or Download the Project
-    git clone "project" from here
-    cd sweet-shop
-2. Set Up Python Environment
+## 1. 📥 Clone or Download the Project
+Clone the repository and navigate into the folder:
+```bash
+git clone "project" from here
+cd sweet-shop
+## 2. Set Up Python Environment
     python --version
-3. Run the Test Cases
+## 3. Run the Test Cases
      python test_app.py
-4. Run the application , install flask 
+## 4. Run the application , install flask 
     pip install flask
     python app.py
 Then open a browser and go to:

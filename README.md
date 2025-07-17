@@ -47,7 +47,7 @@ The Sweet Shop Management System is a lightweight, Python-based web application 
 Clone the repository and navigate into the folder:
 ```bash
 git clone "project" from here
-cd sweet-shop
+cd your-project-folder
 ```
 ## 2. Set Up Python Environment
 ```bash

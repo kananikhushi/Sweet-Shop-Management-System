@@ -23,17 +23,17 @@ The Sweet Shop Management System is a lightweight, Python-based web application 
 Testing: unittest module for test-driven development
 
 # Test Coverage (TDD)
-1. Comprehensive unit tests using Python's unittest cover:
-2. Adding a sweet
-3. Deleting a sweet
-4. Editing a sweet
-5. Searching sweets
-6. Sorting sweets
-7. Valid & invalid purchase
-8. Checkout + total bill calculation
+ Comprehensive unit tests using Python's unittest cover:
+1. Adding a sweet
+2. Deleting a sweet
+3. Editing a sweet
+4. Searching sweets
+5. Sorting sweets
+6. Valid & invalid purchase
+7. Checkout + total bill calculation
 
 # Notes
-1. Not performed from admin/ user side . Just sake of performing operations it is done
+1. Not performed from admin/ user point of view. Just as asked for assessment part it was performed
 2. All operations are stored in-memory (not using a database).
 3. Focused on functionality + UI alignment.
 4. I came up with the idea as mentioned in the Assessment pdf and looked for the solution and tried it implementing

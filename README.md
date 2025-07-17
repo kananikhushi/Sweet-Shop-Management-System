@@ -57,7 +57,7 @@ python --version
 ```bash
  python test_app.py
 ```
-## 4. Run the application , install flask 
+## 4. Install Flask & Run the application 
 ```bash
 pip install flask
 python app.py

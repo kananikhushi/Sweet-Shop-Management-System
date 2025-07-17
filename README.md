@@ -17,9 +17,9 @@ Checkout Page with:
 Fully integrated and styled HTML + CSS UI (no JavaScript used)
 
 # Technical Stack
-Backend: Python with Flask
-Frontend: HTML, CSS (No JavaScript used)
-Data Storage: In-memory dictionary (dict) for sweets & session-based cart
+1. Backend: Python with Flask
+2. Frontend: HTML, CSS (No JavaScript used)
+3. Data Storage: In-memory dictionary (dict) for sweets & session-based cart
 Testing: unittest module for test-driven development
 
 # Test Coverage (TDD)

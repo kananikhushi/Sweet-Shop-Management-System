@@ -33,9 +33,14 @@ Valid & invalid purchase
 Checkout + total bill calculation
 
 # Notes
-Not performed from admin/ user side . Just sake of performing operations it is done
-All operations are stored in-memory (not using a database).
-Focused on functionality + UI alignment.
+1. Not performed from admin/ user side . Just sake of performing operations it is done
+2. All operations are stored in-memory (not using a database).
+3. Focused on functionality + UI alignment.
+4. I came up with the idea as mentioned in the Assessment pdf and looked for the solution and tried it implementing
+5. I took help from AI tools to guide me while building the project. It helped me with:
+    Writing and improving the code
+    Making the design and layout look better
+    Creating test cases to check if everything works
 
 ## Run
 1. Clone or Download the Project

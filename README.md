@@ -41,7 +41,7 @@ Checkout + total bill calculation
     Writing and improving the code
     Making the design and layout look better
     Creating test cases to check if everything works
-
+"In this project, I have written all the routes and method logic directly inside app.py for simplicity and to keep everything in one place. However, in larger or more complex projects, it is a good practice to separate route definitions, logic, and configurations into different files or modules to improve readability, maintainability, and scalability."
 ## Run
 1. Clone or Download the Project
     git clone "project" from here

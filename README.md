@@ -20,7 +20,7 @@ The Sweet Shop Management System is a lightweight, Python-based web application 
 1. Backend: Python with Flask
 2. Frontend: HTML, CSS (No JavaScript used)
 3. Data Storage: In-memory dictionary (dict) for sweets & session-based cart
-Testing: unittest module for test-driven development
+4. Testing: unittest module for test-driven development
 
 # Test Coverage (TDD)
  Comprehensive unit tests using Python's unittest cover:

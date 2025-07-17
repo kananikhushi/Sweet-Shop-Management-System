@@ -57,21 +57,13 @@ Then you will see the Sweet Shop UI
 <img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/c1912342-9df4-4002-a766-ac27a1469212" />
 <img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/95498d28-dfbc-4f6a-bca3-7e85e92f6030" />
 <img width="940" height="874" alt="image" src="https://github.com/user-attachments/assets/e845de31-e646-44d9-a6e2-b1506524f828" />
-Searching on basis of Sweet Name
-<img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/251a2c44-5537-44f6-9e9e-3d6e0d422eb9" />
-Sorted on basis of specific column
-<img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/857e6c15-d395-4305-9d5a-643e4bd1d66b" />
-Add to cart 
+<img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/251a2c44-5537-44f6-9e9e-3d6e0d422eb9" /> 
 <img width="940" height="602" alt="image" src="https://github.com/user-attachments/assets/7c9b0ffe-4bc8-45ab-b786-798251f737c2" />
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/f5c3fde9-80ed-43b6-b8e8-66e17617943b" />
-Adding Multiple Items in Cart
 <img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/241f346f-3b92-48e0-8fde-250e41fffda8" />
 <img width="940" height="785" alt="image" src="https://github.com/user-attachments/assets/468717ff-052b-4357-86a4-bc2fb8ba469a" />
-Restocking items as per requirements
 <img width="940" height="767" alt="image" src="https://github.com/user-attachments/assets/43da9bf1-2c82-45bb-93ba-a6163a71078d" />
-Editing Items
 <img width="940" height="985" alt="image" src="https://github.com/user-attachments/assets/58b0822d-63fd-4aa7-b84e-4c1a899efe5b" />
-Deleting Items
 <img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/cd76a6a5-8fdc-4eb3-a4c3-064e81b90bd2" />
 
 

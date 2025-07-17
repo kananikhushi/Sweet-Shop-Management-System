@@ -47,17 +47,21 @@ The Sweet Shop Management System is a lightweight, Python-based web application 
 Clone the repository and navigate into the folder:
 ```bash
 git clone "project" from here
-cd sweet-shop ``
+cd sweet-shop
+```
 ## 2. Set Up Python Environment
-    ```bash
-python --version ```
+```bash
+python --version
+```
 ## 3. Run the Test Cases
-    ```bash
- python test_app.py ```
+```bash
+ python test_app.py
+```
 ## 4. Run the application , install flask 
-    ```bash
-    pip install flask
-    python app.py ```
+```bash
+pip install flask
+python app.py
+```
 Then open a browser and go to:
 http://127.0.0.1:5000
 Then you will see the Sweet Shop UI
